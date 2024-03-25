@@ -1,0 +1,6 @@
+{
+	"instructions_reflect": 
+	"Now, please verify if each step is physically feasible and afforded. After that, modify the solution if needed.\n Use the following format:\n Step 1: ...\n Step 2: ...\n ...\n Conclusion 1: Whether the problem is indeed solvable given all the constraints\n Conclusioin 2: (If still solvable) No modification needed/Modification needed.\n \n Modified solution:",
+"instruction_div_conv": 
+"Give a feasible solution very concisely. Note that some tools are not useful, so please analyze the affordance of each presented object, and rule out unnecessary ones first. \n \n Use the following format:\n 1. List the affordance of presented items and whether they are useful\n 2. Summary: list useful tools\n 3. If the problem is solvable under all these constraints, write the solution. Use step1, step2, etc, and mention the tools to achieve each step. Use as few steps as possible and the answer should ideally be less than 100 words. \n    If you cannot find a feasible solution, just say that it is not possible and give a very short justification.\n\n  "
+}
