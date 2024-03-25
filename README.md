@@ -25,8 +25,15 @@ for illustration purposes and may not accurately reflect the text.) </figcaption
 </figure>
 
 
-
 **[Additional Solution-Annotation Pair]** In addition to the problem statements and correct solutions, we release human annotations for all the machine/human solutions tested in benchmarking. We hope these additional 4,100 answer-annotation pairs, containing a full gradient of correctness (completely wrong, partially correct, correct but less efficient, and perfect), will facilitate future works in automatic evaluation.
+
+
+
+
+
+TODO: readme & final dataset
+
+
 
 
 
