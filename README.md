@@ -12,18 +12,11 @@
 
 MacGyver is a dataset consisting of over 1,600 **real-world verbal problems** deliberately designed to trigger **innovative usage of objects** and **necessitate out-of-the-box thinking**. Our dataset covers diverse topics, ranging from indoors/household, neutral, to outdoors. Some examples include:
 
+![](https://github.com/allenai/MacGyver/blob/main/teaser_img.png?raw=true)
 
-
-<figure>
-    <div style="display: flex;">
-        <img src="/Users/figo/Library/Application Support/typora-user-images/image-20240321155142512.png" alt="image-20240321155142512" style="width: 50%;height: 90%" />
-        <img src="/Users/figo/Library/Application Support/typora-user-images/image-20240321155046928.png" alt="image-20240321155046928" style="width: 50%;" />
-    </div>
-    <figcaption style="text-align: center;">Figure 1. Examples of the problems in our MacGyver
+Figure 1. Examples of the problems in our MacGyver
 dataset with the GPT-4 and human answers. (Pictures, drawn by DALL·E 3, are solely
-for illustration purposes and may not accurately reflect the text.) </figcaption>
-</figure>
-
+for illustration purposes and may not accurately reflect the text.)
 
 ***
 
