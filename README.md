@@ -14,6 +14,8 @@ MacGyver is a dataset consisting of over 1,600 **real-world verbal problems** de
 
 ![](https://github.com/allenai/MacGyver/blob/main/teaser_img.png?raw=true)
 
+![](https://github.com/allenai/MacGyver/blob/main/teaser_img_2.png?raw=true)
+
 Figure 1. Examples of the problems in our MacGyver
 dataset with the GPT-4 and human answers. (Pictures, drawn by DALL·E 3, are solely
 for illustration purposes and may not accurately reflect the text.)
