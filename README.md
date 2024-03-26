@@ -57,8 +57,20 @@ We release the code to
 
 
 
-
-
-
-
 Contact yufeit@g.ucla.edu if you have questions.
+
+
+### Citation
+If you find our paper/dataset/code helpful, please cite us using:
+
+```bib
+@inproceedings{tian2023macgyver,
+  title = {MacGyver: Are Large Language Models Creative Problem Solvers?},
+  author = {Tian, Yufei and Ravichander, Abhilasha and Qin, Lianhui and Bras, Ronan Le and Marjieh, Raja and Peng, Nanyun and Choi, Yejin and Griffiths, Thomas L. and Brahman, Faeze},
+  year = {2024},
+  booktitle = {Proceedings of NAACL},
+  eprint = {2311.09682},
+  url = {https://arxiv.org/abs/2311.09682},
+  primaryclass = {cs.CL},
+}
+```
